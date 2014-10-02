@@ -1,0 +1,21 @@
+{
+  "name": "predio1",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amit-y/predio.git"
+  },
+  "author": "Amit Yathirajadasan",
+  "bugs": {
+    "url": "https://github.com/amit-y/predio/issues"
+  },
+  "homepage": "https://github.com/amit-y/predio",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  }
+}
